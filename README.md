@@ -4,8 +4,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on machine learning
-- 🌱 I’m currently learning many things like Web development and machine learning
+- 🔭 I’m currently studying software engineering.
+- I am so passionate about learning and solving problems with programming.
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: @jodathan35 on twitter
 
