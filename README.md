@@ -10,3 +10,4 @@
 - 📫 How to reach me: @jodathan35 on twitter
 
 - ⚡ Fun fact: ... I hate coffee and hate coding at night. I also listen to dubstep, EDM and hiphop.
+[jod35' GitHub stats](https://github-readme-stats.vercel.app/api?username=jod35)](https://github.com/anuraghazra/github-readme-stats)
