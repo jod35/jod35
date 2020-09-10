@@ -11,4 +11,5 @@
 
 - ⚡ Fun fact: ... I hate coffee and hate coding at night. I also listen to dubstep, EDM and hiphop.
 
-[![jod35's GitHub stats](https://github-readme-stats.vercel.app/api?username=jod35&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![jod35's GitHub stats](https://github-readme-stats.vercel.app/api?username=jod35&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![mostly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jod35&layout=compatible&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
