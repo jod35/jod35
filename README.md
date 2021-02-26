@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Ssali Jonathan
 ## About Me
+I am Ssali Jonathan. I am student majoring in software engineering. I love to build software to solve problems.
 <p align="">
   <img src="https://gpvc.arturio.dev/jod35" alt="profile views">
 
