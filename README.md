@@ -8,4 +8,4 @@
 
 The FastAPI Beyond CRUD Course is available [here](https://youtube.com/playlist?list=PLEt8Tae2spYnHy378vMlPH--87cfeh33P&si=neXqIyY0rTbVTcVV).
 
-Its website can be found [[here](https://jod35.github.io/fastapi-beyond-crud-docs/site/)](https://github.com/jod35/fastapi-beyond-crud-docs.git)
+Its website can be found [here](https://jod35.github.io/fastapi-beyond-crud-docs/site/)
