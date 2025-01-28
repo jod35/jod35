@@ -5,4 +5,4 @@
     <a href="https://x.com/jod35_">X</a> .
   </samp>
 </p>
-- [Full-Stack Python Web Development: Introducing Reflex (Pycon Uganda 2024)](https://youtu.be/ht0Yn21wHn0?si=x8CVMzprQPEvwB7S)
+- <a href="https://youtu.be/ht0Yn21wHn0?si=x8CVMzprQPEvwB7S">Full-Stack Python Web Development: Introducing Reflex at Pycon Uganda 2024</a> 
