@@ -5,3 +5,6 @@
     <a href="https://x.com/jod35_">X</a> .
   </samp>
 </p>
+
+- [FastAPI Beyond CRUD](https://jod35.github.io/fastapi-beyond-crud-docs/site/)
+- [FastAPI Beyond CRUD Video](https://www.youtube.com/watch?v=TO4aQ3ghFOc)
