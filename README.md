@@ -7,4 +7,3 @@
     <a href="https://www.linkedin.com/in/jod35/">LinkedIn</a>
   </samp>
 </p>
-
