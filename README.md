@@ -15,6 +15,6 @@ Latest from My YouTube channel
 
 
 Latest from Blog
-- [From i3WM to Niri: Enhancing My Tiling Window Experience](https://jod35.github.io/blog/from-i3wm-to-niri-enhancing-my-tiling-window-experience/)
+- [Building APIs with Django and Django REST Framework In 2026](https://jod35.github.io/blog/building-apis-with-django-in-2026/)
 - [What is MariaDB/MySQL Error 1877 ER_TABLE_CORRUPT?](https://jod35.github.io/blog/what-is-mariadbmysql-error-1877-er_table_corrupt/)
 - [I think I'm becoming a bad software engineer](https://jod35.github.io/blog/i-think-im-becoming-a-bad-software-engineer/)
