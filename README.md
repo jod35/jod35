@@ -9,9 +9,10 @@
 </p>
 
 Latest from My YouTube channel
+- [Building APIs with Django and Django REST Framework In 2026](https://youtu.be/S3nZQfZmOdQ)
 - [Stop Panicking About AI , You’re Not Missing Anything Yet](https://youtu.be/78FTSvi7-K8)
-- [Dependency Injection In Litestar | Building APIs with Litestar #7](https://youtu.be/TP0j2fjB3Q8?si=ITqjGVoxUSxcdkiF)
-- [Data Transfer Objects DTOs In Litestar | Building APIs with Litestar #6](https://youtu.be/l5aFkeiUFpY?si=tRNAS6H-anz7IsQY)
+- [Dependency Injection In Litestar | Building APIs with Litestar #7](https://youtu.be/TP0j2fjB3Q8)
+
 
 Latest from Blog
 - [From i3WM to Niri: Enhancing My Tiling Window Experience](https://jod35.github.io/blog/from-i3wm-to-niri-enhancing-my-tiling-window-experience/)
