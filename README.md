@@ -1,4 +1,4 @@
-<p>Hi, My name is Jonathan Sssali Kiggundu (JSK). Most code here is code from my YouTube channel.</p>
+<p align="center">Hi, My name is Jonathan Sssali Kiggundu (JSK). Most code here is code from my YouTube channel.</p>
 
 <p align="center">
   <samp>
