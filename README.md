@@ -2,10 +2,10 @@
 
 <p align="center">
   <samp>
-    <a href="https://jod35.netlify.app/">Blog</a> .
-    <a href="https://www.youtube.com/channel/UC4AYRvDw3yh-ChonxxW6VLA">Youtube</a> .
-    <a href="https://dev.to/jod35">Dev.to</a> .
-    <a href="https://x.com/jod35_">X</a> . 
-    <a href="https://www.linkedin.com/in/jod35/">LinkedIn</a>
+    <a href="https://jod35.netlify.app/" target="_blank">Blog</a> .
+    <a href="https://www.youtube.com/channel/UC4AYRvDw3yh-ChonxxW6VLA" target="_blank">Youtube</a> .
+    <a href="https://dev.to/jod35" target="blank_">Dev.to</a> .
+    <a href="https://x.com/jod35_" target="blank_">X</a> . 
+    <a href="https://www.linkedin.com/in/jod35/" target="blank_">LinkedIn</a>
   </samp>
 </p>
